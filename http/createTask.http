@@ -1,0 +1,8 @@
+POST http://localhost:3000/task
+content-type: application/json
+
+{
+  "title": "Make a new title 2",
+  "description": "I made a new task order",
+  "status": "OPEN"
+}

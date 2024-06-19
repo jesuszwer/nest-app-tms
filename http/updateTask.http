@@ -1,0 +1,7 @@
+PATCH http://localhost:3000/task/1
+content-type: application/json
+
+{
+  "description": "Это изминенная задача 2",
+  "status": "COMPLETED"
+}
